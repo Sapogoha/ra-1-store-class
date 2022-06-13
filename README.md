@@ -4,7 +4,7 @@
 
 This is a class-based React component.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) using
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
 
 ### In order to check the project, you can run
 
